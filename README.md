@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · uv6tppGU -->
-## Notification 1/2
-Round: Round 1
-To: carolyn.savoy@creolecuisine.com, tarekr@aol.com
-At: 2026-09-16 16:00:25
-Id: uv6tppGU
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: anmaywald@deloitte.com, ebartho@aol.com
+At: 2026-09-16 16:00:33
+Id: NlGA42kP
